@@ -1,0 +1,22 @@
+let a = 5,
+  b = 5;
+console.log("Is a == b I predict yes");
+console.log("a == b is 'true'");
+console.log("Is a >= b I predict yes");
+console.log("a >= b is 'true'");
+console.log("Is a <= b I predict yes");
+console.log("a <= b is 'true'");
+console.log("Is a-b == 0 I predict yes");
+console.log("a-b = 0 is 'true'");
+console.log("Is a+b = 10 I predict yes");
+console.log("a+b = 10 is 'true'");
+console.log("Is a > b I predict No");
+console.log("a > b is 'false'");
+console.log("Is a < b I predict No");
+console.log("a < b is 'false'");
+console.log("Is a != b I predict No");
+console.log("a != b is 'false'");
+console.log("Is a-b = 1 I predict No");
+console.log("a-b = 1 is 'false'");
+console.log("Is a+b = 11 I predict No");
+console.log("a+b = 11 is 'false'");
